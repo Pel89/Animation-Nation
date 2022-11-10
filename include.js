@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Pel89Animator',
+    pageLink: './Art/Pel89Animator/index.html',
+    imageLink: './Art/Pel89Animator/trance.gif',
+    author: 'Perri',
+    githubLink: 'https://github.com/Pel89'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
